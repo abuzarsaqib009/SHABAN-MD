@@ -8,13 +8,13 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "SHABAN-MD~UcJHiKKL#vQNYzKxrDJ4tiJelEhDxJ3fNXA1ZViCpjEqPN1qQtWw",
       "required": true,
       "value": ""
     },  
     
     "STICKER_NAME": {
-      "description": "type your sticker pack name.",
+      "description": "AbuXar-XS",
       "required": false,
       "value": "SHABAN-MD︎"
     },
