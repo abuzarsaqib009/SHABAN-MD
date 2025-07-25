@@ -41,7 +41,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": true,
-      "value": "false"  
+      "value": "true"  
     },   
   
     "AUTO_VOICE": {
@@ -59,7 +59,7 @@
     "AUTO_STICKER": {
       "description": "Make it true if you want automatic sticker.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
 
@@ -98,13 +98,13 @@
     "DELETE_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
     
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto kick member remove group link.",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
     
     "ADMIN_EVENTS": {
@@ -129,7 +129,7 @@
     "ANTI_BAD_WORD": {
       "description": "Make it true if you want bot auto delete bad words.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
     
     "AUTO_RECORDING": {
@@ -153,14 +153,14 @@
     "CUSTOM_REACT": {
       "description": "Make it true if you want custom reactions.",
       "required": true,
-      "value": "false"
+      "value": "true"
       
     }, 
     
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
       "required": false,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
+      "value": "💝,😈,🥰,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
     }, 
     
     "ANTI_DEL_PATH": {
@@ -172,7 +172,7 @@
     "ANTI_DELETE": {
       "description": "set true for show deleted messages.",
       "required": true,
-      "value": "false"  
+      "value": "true"  
     },
 
     "READ_MESSAGE": {
